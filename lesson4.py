@@ -1,0 +1,8 @@
+name = str('Alex')
+print(name)
+age = int(42)
+print('Age', age)
+new_age = int(5)
+print("New age", age + new_age)
+is_student = bool(True)
+print("Is student:", is_student)
